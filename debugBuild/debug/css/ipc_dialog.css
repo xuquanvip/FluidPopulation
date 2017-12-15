@@ -1,0 +1,11 @@
+QPushButton#ipc_close_button_btn{
+    border-image: url("./images/theme/dialog/close_normal.png");
+}
+
+QPushButton#ipc_close_button:hover{
+	border-image: url("./images/theme/dialog/close_hover.png");
+}
+
+QPushButton#ipc_close_button:pressed{
+	border-image: url("./images/theme/dialog/close_pressed.png");
+}

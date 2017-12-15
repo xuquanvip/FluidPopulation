@@ -1,0 +1,27 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Web网页 demo</title>
+    <link rel="icon" type="image/x-icon" href="//statics.ys7.com/mall/statics/site/favicon.ico" />
+    <script src="ckplayer/ckplayer.js"></script>
+</head>
+<body>
+<!--注意：
+    例子必须使用服务端环境运行，如：Tomcat，iis，注意浏览器的地址，需要http://开头
+    直接运行html文件打开不能看（file:///开头）-->
+    <div id="videoPlay" style="width: 700px;height: 393px;"></div>
+    <script>
+        var flashvars;
+        flashvars={
+
+            a: 'http://hls.open.ys7.com/openlive/ed6a971110df41afa6390cf868a1e90a.m3u8', //此处填写购买获取到的视频播放地址
+            c: 0,
+            p: 1,
+            s: 4,
+            lv: 1
+        };
+        var params = {bgcolor: '#FFF', allowFullScreen: true, allowScriptAccess: 'always', wmode: 'transparent'};
+        CKobject.embedSWF("", "videoPlay", "video", "100%", "100%", flashvars, params);
+    </script>
+</body>
+</html>

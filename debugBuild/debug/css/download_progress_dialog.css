@@ -1,0 +1,22 @@
+/** 内容 **/
+QWidget#DownloadProgressDialog{
+	border-image: url("./images/theme/normal/main_bg.png");
+}
+QWidget#DialogBodyLayout{
+	background-color:#ffffff;
+}
+
+/**关闭**/
+QPushButton#dialogCloseBtn{
+	width:26;
+	height:26;
+    border-image: url("./images/theme/normal/close_mormal.png");
+}
+/**关闭**/
+QPushButton#dialogCloseBtn:hover{
+   border-image: url("./images/theme/normal/close_hover.png");
+}
+/**关闭**/
+QPushButton#dialogCloseBtn:pressed{
+   border-image: url("./images/theme/normal/close_pressed.png");
+}

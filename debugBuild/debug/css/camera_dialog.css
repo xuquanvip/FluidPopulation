@@ -1,0 +1,55 @@
+QPushButton#close_btn{
+    border-image: url("./images/theme/dialog/close_normal.png");
+}
+
+QPushButton#close_btn:hover{
+	border-image: url("./images/theme/dialog/close_hover.png");
+}
+
+QPushButton#close_btn:pressed{
+	border-image: url("./images/theme/dialog/close_pressed.png");
+}
+
+QPushButton#take_photo_btn{
+	border-image: url("./images/theme/dialog/camera_normal.png");
+}
+
+QPushButton#take_photo_btn:hover{
+   border-image: url("./images/theme/dialog/camera_hover.png");
+}
+
+QPushButton#take_photo_btn:pressed{
+   border-image: url("./images/theme/dialog/camera_pressed.png");
+}
+
+QPushButton#ok_btn{
+    border-image: url("./images/theme/dialog/submit_normal.png");
+}
+
+QPushButton#ok_btn:hover{
+   border-image: url("./images/theme/dialog/submit_hover.png");
+}
+
+QPushButton#ok_btn:pressed{
+   border-image: url("./images/theme/dialog/submit_pressed.png");
+}
+
+QPushButton#re_take_btn{
+    border-image: url("./images/theme/dialog/re_take_photo_normal.png");
+}
+
+QPushButton#re_take_btn:hover{
+   border-image: url("./images/theme/dialog/re_take_photo_hover.png");
+}
+
+QPushButton#re_take_btn:pressed{
+   border-image: url("./images/theme/dialog/re_take_photo_pressed.png");
+}
+
+QLabel#mask_image{
+	border-image: url("./images/theme/dialog/take_photo_mask.png");
+}
+
+QLabel#face_tmp{
+	border-image: url("./images/theme/dialog/take_photo_focus.png");
+}

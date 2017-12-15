@@ -1,0 +1,16 @@
+请求的URL: : 2017-12-14 18:30:15
+http://config2.doordu.com/admin-flow-population/backend/web/index.php/site/checkversion?app_ver=1.2.4.1&only_exe=1
+=============================================
+
+http_head : 2017-12-14 18:30:15
+http请求返回的头信息
+=============================================
+
+HTTP返回结果: : 2017-12-14 18:30:15
+{"success":true,"message":"\u5df2\u662f\u6700\u65b0\u7248\u672c","data":[],"totalCount":0}
+=============================================
+
+HTTP返回结果: : 2017-12-14 18:31:52
+{"success":true,"message":"","data":{"imgUrl":"wymanage\/identify\/Z5A325318E7F6B1513247512.png"},"totalCount":0}
+=============================================
+

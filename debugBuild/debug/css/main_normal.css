@@ -1,0 +1,185 @@
+/** 内容 **/
+QWidget#centralwidget{
+	border-image: url("./images/theme/normal/main_bg.png");
+}
+QWidget#web_view{
+	background-color:#ffffff;
+}
+
+/** 水平分隔 **/
+
+/**显示下载**/
+QPushButton#showDownloadBtn{
+	width:26;
+	height:26;
+    border-image: url("./images/theme/normal/download_mormal.png");
+}
+/**显示下载**/
+QPushButton#showDownloadBtn:hover{
+    border-image: url("./images/theme/normal/download_hover.png");
+}
+/**显示下载**/
+QPushButton#showDownloadBtn:pressed{
+    border-image: url("./images/theme/normal/download_pressed.png");
+}
+
+/**最小化**/
+QPushButton#minWindowBtn{
+	width:26;
+	height:26;
+    border-image: url("./images/theme/normal/min_mormal.png");
+}
+/**最小化**/
+QPushButton#minWindowBtn:hover{
+    border-image: url("./images/theme/normal/min_hover.png");
+}
+/**最小化**/
+QPushButton#minWindowBtn:pressed{
+    border-image: url("./images/theme/normal/min_pressed.png");
+}
+/**最大化**/
+QPushButton#maxWindowBtn{
+	width:26;
+	height:26;
+    border-image: url("./images/theme/normal/max_mormal.png");
+}
+/**最大化**/
+QPushButton#maxWindowBtn:hover{
+   border-image: url("./images/theme/normal/max_hover.png");
+}
+/**最大化**/
+QPushButton#maxWindowBtn:pressed{
+   border-image: url("./images/theme/normal/max_pressed.png");
+}
+/**关闭**/
+QPushButton#closeWindowBtn{
+	width:26;
+	height:26;
+    border-image: url("./images/theme/normal/close_mormal.png");
+}
+/**关闭**/
+QPushButton#closeWindowBtn:hover{
+   border-image: url("./images/theme/normal/close_hover.png");
+}
+/**关闭**/
+QPushButton#closeWindowBtn:pressed{
+   border-image: url("./images/theme/normal/close_pressed.png");
+}
+
+/**后退**/
+QPushButton#backButton{
+	width:26;
+	height:26;
+	max-width:26;
+	max-height:26;
+	outline:1px solid transparent;
+    border-image: url("./images/theme/normal/back_btn_normal.png");
+}
+
+/**后退**/
+QPushButton#backButton:disabled{
+    border-image: url("./images/theme/normal/back_btn_disabled.png");
+}
+/**后退**/
+QPushButton#backButton:hover{
+    border-image: url("./images/theme/normal/back_btn_hover.png");
+}
+/**后退**/
+QPushButton#backButton:pressed{
+    border-image: url("./images/theme/normal/back_btn_pressed.png");
+}
+
+/**前进**/
+QPushButton#forwardButton{
+	width:26;
+	height:26;
+	max-width:26;
+	max-height:26;
+	margin-left:4;
+	outline:1px solid transparent;
+    border-image: url("./images/theme/normal/forward_btn_normal.png");
+}
+
+/**前进**/
+QPushButton#forwardButton:disabled{
+    border-image: url("./images/theme/normal/forward_btn_disabled.png");
+}
+/**前进**/
+QPushButton#forwardButton:hover{
+    border-image: url("./images/theme/normal/forward_btn_hover.png");
+}
+/**前进**/
+QPushButton#forwardButton:pressed{
+    border-image: url("./images/theme/normal/forward_btn_pressed.png");
+}
+
+/**刷新**/
+QPushButton#reloadButton{
+	width:26;
+	height:26;
+	max-width:26;
+	max-height:26;
+	margin-left:4;
+	outline:1px solid transparent;
+    border-image: url("./images/theme/normal/refresh_btn_normal.png");
+}
+
+/**刷新**/
+QPushButton#reloadButton:disabled{
+    border-image: url("./images/theme/normal/refresh_btn_disabled.png");
+}
+/**刷新**/
+QPushButton#reloadButton:hover{
+    border-image: url("./images/theme/normal/refresh_btn_hover.png");
+}
+/**刷新**/
+QPushButton#reloadButton:pressed{
+    border-image: url("./images/theme/normal/refresh_btn_pressed.png");
+}
+
+/**刷新**/
+QPushButton#sysMenuBtn{
+    border-image: url("./images/theme/normal/sys_menu_normal_btn.png");
+}
+/**刷新**/
+QPushButton#sysMenuBtn:hover{
+    border-image: url("./images/theme/normal/sys_menu_hover_btn.png");
+}
+/**刷新**/
+QPushButton#sysMenuBtn:pressed{
+    border-image: url("./images/theme/normal/sys_menu_pressed_btn.png");
+}
+
+/**停止**/
+QPushButton#stopButton{
+	width:26;
+	height:26;
+	max-width:26;
+	max-height:26;
+	margin-left:4;
+	outline:1px solid transparent;
+    border-image: url("./images/theme/normal/stop_btn_normal.png");
+}
+
+/**停止**/
+QPushButton#stopButton:disabled{
+    border-image: url("./images/theme/normal/stop_btn_disabled.png");
+}
+/**停止**/
+QPushButton#stopButton:hover{
+    border-image: url("./images/theme/normal/stop_btn_hover.png");
+}
+/**停止**/
+QPushButton#stopButton:pressed{
+    border-image: url("./images/theme/normal/stop_btn_pressed.png");
+}
+
+/** 地址栏**/
+QLineEdit#lineEdit{
+	height:24;
+	max-height:24;
+	font-size:14px;
+	font-family:Arial, Helvetica, sans-serif;
+	border-width: 6px;
+	border-image: url("./images/theme/normal/adress_edit_fouse.png") 6 stretch;
+}

@@ -1,0 +1,328 @@
+dll : 2017-09-24 19:59:17
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-09-25 16:19:08
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-09-25 20:07:43
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-09-25 20:24:32
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-09-25 21:22:50
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-09-25 21:24:56
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-09-25 22:27:25
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-09-25 22:34:42
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-09-25 22:40:52
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-09-25 22:44:43
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-09-25 22:47:51
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-09-25 22:49:34
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-10-16 17:07:08
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-10-16 20:37:57
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-10-16 20:48:54
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-10-17 11:25:56
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-10-17 13:36:37
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-10-17 13:36:53
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-10-17 19:46:54
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-10-17 20:46:20
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-10-17 20:59:56
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-10-17 21:07:24
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-10-17 21:52:05
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-10-17 21:52:10
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-10-18 15:04:10
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-10-18 18:42:33
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-10-20 13:37:13
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-10-20 13:38:20
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-10-20 13:41:18
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-10-20 13:43:32
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-10-20 15:52:41
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-10-20 15:56:53
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-10-20 15:57:22
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-10-20 16:42:45
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-10-20 16:43:41
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-10-20 16:44:31
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-10-20 16:52:26
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-10-20 16:53:04
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-10-20 17:01:27
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-10-20 17:02:12
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-10-20 17:02:59
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-10-20 17:12:17
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-10-20 17:13:37
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-10-20 17:14:51
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-10-20 17:16:11
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-10-20 17:21:38
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-10-20 17:57:06
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-10-20 18:11:55
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-10-20 18:21:29
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-10-20 18:28:12
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-10-21 15:54:02
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-10-23 13:38:30
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-10-23 13:47:30
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-10-23 13:53:34
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-10-23 14:03:37
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+Default : 2017-10-23 14:06:07
+下载文件的md5值:0690c654d5f225a0d3b8ced722e71917,服务器的md5值:0690C654D5F225A0D3B8CED722E71917
+=============================================
+
+dll : 2017-10-23 14:06:07
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-10-23 15:01:40
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-10-23 15:28:58
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-10-23 15:30:53
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-10-23 15:33:27
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-10-23 17:19:22
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-10-23 17:42:20
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-10-23 17:43:47
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-10-23 17:44:16
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-10-23 17:46:14
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-10-23 18:08:50
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-10-23 18:12:14
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-10-23 18:26:14
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-10-24 09:47:09
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-10-24 09:50:44
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-10-24 09:53:45
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-10-24 14:13:55
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-10-24 15:15:34
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-10-24 15:17:28
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-10-24 15:50:30
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-10-24 18:20:36
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-10-24 18:21:25
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-10-24 18:40:25
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-10-24 18:41:58
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-10-24 18:44:43
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
+dll : 2017-10-24 18:50:17
+UsbReaderCr10e::loadDll:86 function.dll not found.
+=============================================
+
